@@ -1,0 +1,1 @@
+Its a Bi-LSTM model used for four types of dataset of four cryptocurrency prediction.
